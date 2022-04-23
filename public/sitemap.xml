@@ -1,9 +1,21 @@
-<urlset
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml"
-  ><url>
-      <loc>http://blog.cbksb.ml/</loc><lastmod>2022-04-16T23:46:01&#43;08:00</lastmod></url><url>
-      <loc>http://blog.cbksb.ml/posts/my-first-post/</loc><lastmod>2022-04-16T23:46:01&#43;08:00</lastmod></url><url>
-      <loc>http://blog.cbksb.ml/posts/</loc><lastmod>2022-04-16T23:46:01&#43;08:00</lastmod></url><url>
-      <loc>http://blog.cbksb.ml/categories/</loc></url><url>
-      <loc>http://blog.cbksb.ml/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/en/sitemap.xml</loc>
+    
+      <lastmod>2022-04-16T23:46:01+08:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/fr/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://adityatelange.github.io/hugo-PaperMod/fa/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>

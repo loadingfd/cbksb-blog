@@ -1,16 +1,23 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>misaka 10032</title>
-    <link>http://blog.cbksb.ml/</link>
-    <description>misaka 10032</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 16 Apr 2022 23:46:01 &#43;0800</lastBuildDate>
-      <atom:link href="http://blog.cbksb.ml/index.xml" rel="self" type="application/rss+xml" />
+    <title>PaperMod</title>
+    <link>https://adityatelange.github.io/hugo-PaperMod/</link>
+    <description>Recent content on PaperMod</description>
+    <image>
+      <url>https://adityatelange.github.io/hugo-PaperMod/papermod-cover.png</url>
+      <link>https://adityatelange.github.io/hugo-PaperMod/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 16 Apr 2022 23:46:01 +0800</lastBuildDate><atom:link href="https://adityatelange.github.io/hugo-PaperMod/index.xml" rel="self" type="application/rss+xml" />
     <item>
-  <title>My First Post</title>
-  <link>http://blog.cbksb.ml/posts/my-first-post/</link>
-  <pubDate>Sat, 16 Apr 2022 23:46:01 &#43;0800</pubDate>
-  <author>作者</author>
-  <guid>http://blog.cbksb.ml/posts/my-first-post/</guid>
-  <description><![CDATA[Hugo on Vercel With no doubt, today is a significant date for the cbksb universe has beed updated. It is a step for me, but a huge step for the cbk. Nothing could be bettere than spreading such a awesome thing. I hope the whole human could enjoy the joy of cbksb. Centainly, it has already beyond a simple website, and do is a spirit. At last, i wanna say all the people like cbksb are brothers!]]></description>
-</item></channel>
+      <title>My First Post</title>
+      <link>https://adityatelange.github.io/hugo-PaperMod/posts/my-first-post/</link>
+      <pubDate>Sat, 16 Apr 2022 23:46:01 +0800</pubDate>
+      
+      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/my-first-post/</guid>
+      <description>Hugo on Vercel With no doubt, today is a significant date for the cbksb universe has beed updated. It is a step for me, but a huge step for the cbk. Nothing could be bettere than spreading such a awesome thing. I hope the whole human could enjoy the joy of cbksb. Centainly, it has already beyond a simple website, and do is a spirit. At last, i wanna say all the people like cbksb are brothers!</description>
+    </item>
+    
+  </channel>
 </rss>
