@@ -45,10 +45,8 @@ languages:
         imageWidth: 150
         imageHeight: 150
         buttons:
-          - name: 👨🏻‍💻技术
-            url: posts/tech
-          - name: 📕阅读
-            url: posts/read
+          - name: 📚文章
+            url: posts
           - name: 🌹主站
             url: https:/www.cbksb.ml
       menu:
@@ -105,18 +103,6 @@ params:
     comments: true
     
     socialIcons:
-        - name: github
-          url: "https://github.com/xyming108"
-        - name: twitter
-          url:  "img/twitter.png"
-        - name: facebook
-          url: "https://www.facebook.com/profile.php?id=100027782410997"
-        - name: instagram
-          url: "img/instagram.png"
-        - name: QQ
-          url: "img/qq.png"
-        - name: WeChat
-          url: "img/wechat.png"
         # - name: Phone
         #   url: "img/phone.png"
         - name: email
