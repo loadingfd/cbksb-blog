@@ -1,3 +1,8 @@
 echo "Enter the title"
+wcnm="D:/Typora/Typora.exe"
 read title
-hugo new --kind post posts/$title.md
+if [ -n "$title" ]
+then
+	hugo new --kind post posts/$title.md
+	$wcnm content/posts/$title.md
+fi
