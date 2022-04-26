@@ -48,7 +48,7 @@ languages:
           - name: 📚文章
             url: posts
           - name: 🌹主站
-            url: https:/www.cbksb.ml
+            url: https://www.cbksb.ml
       menu:
         main:
           - identifier: search
