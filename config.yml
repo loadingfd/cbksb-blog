@@ -1,8 +1,8 @@
-baseURL: https://blog.cbksb.ml
+baseURL: https://blog.cbksb.tk
 # baseURL
 # 绑定的域名
 languageCode: zh-cn # en-us
-title: cbksb
+title: cbksb崔博啃
 theme: PaperMod # 主题名字，和themes文件夹下的一致
 
 enableInlineShortcodes: true
@@ -77,7 +77,7 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     # description: "这是一个纯粹的博客......"
-    author: Sulv
+    author: CBKSB
     # author: ["Me", "You"] # multiple authors
 
   
